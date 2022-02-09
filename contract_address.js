@@ -1,0 +1,1 @@
+var contract_address = '0x76b3602900B28acAA2277ff955C270BFD19224Ba'
